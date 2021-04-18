@@ -1,0 +1,10 @@
+D:\Visual Studio Project\bind\bind\obj\Debug\bind.csprojAssemblyReference.cache
+D:\Visual Studio Project\bind\bind\obj\Debug\bind.Form1.resources
+D:\Visual Studio Project\bind\bind\obj\Debug\bind.Properties.Resources.resources
+D:\Visual Studio Project\bind\bind\obj\Debug\bind.csproj.GenerateResource.cache
+D:\Visual Studio Project\bind\bind\obj\Debug\bind.csproj.CoreCompileInputs.cache
+D:\Visual Studio Project\bind\bind\bin\Debug\bind.exe.config
+D:\Visual Studio Project\bind\bind\bin\Debug\bind.exe
+D:\Visual Studio Project\bind\bind\bin\Debug\bind.pdb
+D:\Visual Studio Project\bind\bind\obj\Debug\bind.exe
+D:\Visual Studio Project\bind\bind\obj\Debug\bind.pdb
